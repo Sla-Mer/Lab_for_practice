@@ -12,3 +12,8 @@ Repository for study
 
 ![image](https://user-images.githubusercontent.com/85624023/121806936-9abafa00-cc5a-11eb-9cad-f50e39d37874.png)
 
+Завантажуємо результат за допомогою git push:
+
+![image](https://user-images.githubusercontent.com/85624023/121807201-d7d3bc00-cc5b-11eb-9c66-d72322d95ba8.png)
+
+
