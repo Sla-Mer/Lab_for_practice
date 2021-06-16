@@ -25,7 +25,7 @@ Repository for study
 ![image](https://user-images.githubusercontent.com/85624023/122215986-8d994780-ceb4-11eb-9dd2-7aaeab0d2299.png)
  
  
- Пуш файлу( на жаль забув скріншот git commit -m "Added main file to the repository):
+ Пуш файлу( на жаль забув скріншот git commit -m "Added main file to the repository"):
  
  
  ![image](https://user-images.githubusercontent.com/85624023/122216107-aefa3380-ceb4-11eb-841f-2475d082b1a2.png)
