@@ -29,6 +29,13 @@ Repository for study
  
  
  ![image](https://user-images.githubusercontent.com/85624023/122216107-aefa3380-ceb4-11eb-841f-2475d082b1a2.png)
+ 
+ 
+ Приклад роботи програми:
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/85624023/122216972-a3f3d300-ceb5-11eb-954d-5b481cecd548.png)
+
 
 
 
