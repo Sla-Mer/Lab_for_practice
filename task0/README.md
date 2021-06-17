@@ -12,3 +12,7 @@ Repository for study
 
 ![image](https://user-images.githubusercontent.com/85624023/121806936-9abafa00-cc5a-11eb-9cad-f50e39d37874.png)
 
+Додано SSH - ключ:
+![image](https://user-images.githubusercontent.com/85624023/122405459-bee34780-cf88-11eb-9f6c-a1cc7bc6a32b.png)
+
+
