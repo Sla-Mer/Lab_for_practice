@@ -7,3 +7,9 @@
 ![image](https://user-images.githubusercontent.com/85624023/122674764-432f0800-d1df-11eb-99b2-f9092f454549.png)
 
 
+При вводе неправильного значения будет выведено ошибку:
+
+![image](https://user-images.githubusercontent.com/85624023/122674871-986b1980-d1df-11eb-840e-0a5d9f3abcc4.png)
+
+
+
