@@ -20,7 +20,7 @@ data = res.read()
 val = data.decode("utf-8")
 
 win = tk.Tk()
-win.geometry(f"600x320+100+200")
+win.geometry(f"640x340+100+200")
 win.title("Task#3")
 
 def update():
