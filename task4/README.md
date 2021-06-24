@@ -25,3 +25,11 @@ Repository for study
 
 
 ![image](https://user-images.githubusercontent.com/85624023/123283292-ee0f3100-d513-11eb-9345-d98192d108d8.png)
+
+
+
+![image](https://user-images.githubusercontent.com/85624023/123283516-231b8380-d514-11eb-85d1-527eb3698ad6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/85624023/123283584-375f8080-d514-11eb-8534-12089565286f.png)
