@@ -120,8 +120,8 @@ headers = {
     'x-rapidapi-key': "38c5d9519dmsheea62898366a299p1762d0jsn3212521cbd80",
     'x-rapidapi-host': "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com"
     }
-
-bot = telebot.TeleBot('1736230688:AAEYWJHKxlTJ0D71CZhFwJY8Uf4j9MXau7g')
+#Для гитхаба сменил токен, ибо это всё же персональная вещь))
+bot = telebot.TeleBot('Herewasmytoken')
 
 @bot.message_handler(commands=['start'])
 def sayhello(message):
