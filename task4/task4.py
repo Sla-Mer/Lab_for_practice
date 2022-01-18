@@ -121,7 +121,7 @@ headers = {
     'x-rapidapi-host': "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com"
     }
 
-bot = telebot.TeleBot('1736230688:AAEYWJHKxlTJ0D71CZhFwJY8Uf4j9MXau7g')
+bot = telebot.TeleBot('Key')
 
 @bot.message_handler(commands=['start'])
 def sayhello(message):
